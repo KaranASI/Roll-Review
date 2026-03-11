@@ -1,8 +1,6 @@
 # Roll Review 🎬
 
-A cinematic movie discovery app where you can search millions of films, watch trailers, and explore cast & crew details — all in one place.
-
-
+A cinematic movie discovery app where you can search millions of films, watch trailers, and explore cast and crew details.
 
 ## Features
 
@@ -12,9 +10,9 @@ A cinematic movie discovery app where you can search millions of films, watch tr
   - Embedded YouTube trailer
   - Movie poster, rating, runtime, release year
   - Genre, full plot, director and top cast
-- Dynamic rating colors — green for great, yellow for average, red for poor
+- Dynamic rating colors: green for great, yellow for average, red for poor
 - Parallax scrolling hero section with custom illustrations
-- Responsive design — works on mobile and desktop
+- Responsive design, works on mobile and desktop
 - Custom branding with original logo and artwork
 
 ## Tech Stack
@@ -22,9 +20,9 @@ A cinematic movie discovery app where you can search millions of films, watch tr
 - HTML
 - CSS (Grid, Flexbox, parallax effects)
 - JavaScript (Async/Await, Fetch API, DOM manipulation)
-- [TMDB API](https://www.themoviedb.org/) — movie data
-- [Rellax.js](https://dixonandmoe.com/rellax/) — parallax scrolling
-- YouTube Embed API — trailer playback
+- [TMDB API](https://www.themoviedb.org/) for movie data
+- [Rellax.js](https://dixonandmoe.com/rellax/) for parallax scrolling
+- YouTube Embed API for trailer playback
 
 ## How to Run
 
@@ -36,7 +34,7 @@ A cinematic movie discovery app where you can search millions of films, watch tr
    ```
    git clone https://github.com/KaranASI/Roll-Review.git
    ```
-3. Open `index.html` in your browser — no build tools needed.
+3. Open `index.html` in your browser, no build tools needed.
 
 > Note: The app uses a TMDB API key. If the key expires, grab a free one at [themoviedb.org](https://www.themoviedb.org/) and replace it in `script.js`.
 
